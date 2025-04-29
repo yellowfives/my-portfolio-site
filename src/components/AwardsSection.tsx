@@ -6,6 +6,7 @@ import { GlassCard } from "./ui/glass-card";
 import { motion } from "framer-motion";
 
 export default function AwardsSection() {
+  console.log(awards);
   return (
     <section
       id="awards"
