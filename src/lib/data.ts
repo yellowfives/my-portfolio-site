@@ -2,8 +2,8 @@ export const personalInfo = {
   name: "Nate Brauner",
   location: "Brooklyn, USA",
   email: "brauner.n@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  github: "--",
+  linkedin: "--",
 };
 
 export const workExperience = [
