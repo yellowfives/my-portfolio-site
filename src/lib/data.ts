@@ -1,7 +1,7 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
+  name: "Nate Brauner",
+  location: "Brooklyn, USA",
+  email: "brauner.n@gmail.com",
   github: "https://github.com/rishikesh2003",
   linkedin: "https://www.linkedin.com/in/rishikeshs/",
 };
